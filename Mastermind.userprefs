@@ -1,0 +1,28 @@
+﻿<Properties GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mastermind/AI/ComputerPlayer.cs">
+    <Files>
+      <File FileName="Mastermind/Mastermind.cs" Line="57" Column="35" />
+      <File FileName="Mastermind/Game/Secret.cs" Line="34" Column="75" />
+      <File FileName="Mastermind/Game/Guess.cs" Line="13" Column="128" />
+      <File FileName="Mastermind/AI/ComputerPlayer.cs" Line="30" Column="56" />
+      <File FileName="Mastermind/Game/Player.cs" Line="10" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Mastermind" expanded="True">
+            <Node name="AI" expanded="True">
+              <Node name="ComputerPlayer.cs" selected="True" />
+            </Node>
+            <Node name="Game" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

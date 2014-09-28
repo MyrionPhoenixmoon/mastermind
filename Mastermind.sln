@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastermind", "Mastermind\Mastermind.csproj", "{3DCEF3AC-1C68-4243-90EB-9CC2899A6376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DCEF3AC-1C68-4243-90EB-9CC2899A6376}.Debug|x86.ActiveCfg = Debug|x86
+		{3DCEF3AC-1C68-4243-90EB-9CC2899A6376}.Debug|x86.Build.0 = Debug|x86
+		{3DCEF3AC-1C68-4243-90EB-9CC2899A6376}.Release|x86.ActiveCfg = Release|x86
+		{3DCEF3AC-1C68-4243-90EB-9CC2899A6376}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Mastermind\Mastermind.csproj
+	EndGlobalSection
+EndGlobal
