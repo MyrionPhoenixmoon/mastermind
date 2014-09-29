@@ -1,21 +1,20 @@
 ﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mastermind/AI/ComputerPlayer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mastermind/Mastermind.cs">
     <Files>
-      <File FileName="Mastermind/Mastermind.cs" Line="57" Column="35" />
-      <File FileName="Mastermind/Game/Secret.cs" Line="34" Column="75" />
-      <File FileName="Mastermind/Game/Guess.cs" Line="13" Column="128" />
-      <File FileName="Mastermind/AI/ComputerPlayer.cs" Line="30" Column="56" />
-      <File FileName="Mastermind/Game/Player.cs" Line="10" Column="48" />
+      <File FileName="Mastermind/Mastermind.cs" Line="72" Column="55" />
+      <File FileName="Mastermind/Game/Secret.cs" Line="39" Column="71" />
+      <File FileName="Mastermind/Game/Guess.cs" Line="1" Column="1" />
+      <File FileName="Mastermind/AI/ComputerPlayer.cs" Line="44" Column="64" />
+      <File FileName="Mastermind/Game/Player.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
           <Node name="Mastermind" expanded="True">
-            <Node name="AI" expanded="True">
-              <Node name="ComputerPlayer.cs" selected="True" />
-            </Node>
+            <Node name="AI" expanded="True" />
             <Node name="Game" expanded="True" />
+            <Node name="Mastermind.cs" selected="True" />
           </Node>
         </State>
       </Pad>
