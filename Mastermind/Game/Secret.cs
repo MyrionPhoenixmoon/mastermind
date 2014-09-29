@@ -32,11 +32,11 @@ namespace Mastermind
                         ArrayList retVal = new ArrayList();
                         for (int i = 0; i < g.guesses.Count; i++){
                                 if (g.guesses[i].Equals(secret.guesses[i])){
-                                        retVal.Add(0);
+                                        retVal.Add(0); // Correct number and pos
                                 } else if (secret.guesses.Contains(g.guesses[i])){
-                                        retVal.Add(1);
+                                        retVal.Add(1); // Correct number, wrong pos
                                 } else {
-                                        retVal.Add(2);
+                                        retVal.Add(2); // Wrong number
                                 }
 
                         }

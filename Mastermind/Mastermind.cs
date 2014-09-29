@@ -22,6 +22,7 @@ namespace Mastermind
                 {
                         nrOfSecrets = secretSize;
                         gameLength = gl;
+                        p = new ComputerPlayer();
                         secret = new Secret();
                 }
 
