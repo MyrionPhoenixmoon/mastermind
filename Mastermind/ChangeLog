@@ -1,9 +1,14 @@
 2014-09-29  myrion  <myrion_the_first@hotmail.com>
 
-	* Mastermind.cs:
-	* Secret.cs:
-	* Mastermind.csproj:
-	* ComputerPlayer.cs:
+	* ChangeLog:
+	* Mastermind.csproj: 
+
+2014-09-29  myrion  <myrion_the_first@hotmail.com>
+
+	* Mastermind.cs: Fixed bug where no CPU player was generated
+	* Secret.cs: Minor refactoring
+	* ComputerPlayer.cs: Computer player now actually improves his guess based on the response of the game
+    * Mastermind.csproj: GitIgnore missing
 	* Mastermind.exe:
 	* Mastermind.exe.mdb: 
 

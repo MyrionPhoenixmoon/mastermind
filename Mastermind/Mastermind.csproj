@@ -45,4 +45,7 @@
     <Folder Include="Game\" />
     <Folder Include="AI\" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ChangeLog" />
+  </ItemGroup>
 </Project>
