@@ -1,3 +1,10 @@
+2014-09-30  myrion  <myrion_the_first@hotmail.com>
+
+	* Mastermind.cs:
+	* Response.cs:
+	* Mastermind.csproj:
+	* HumanPlayer.cs: 
+
 2014-09-29  myrion  <myrion_the_first@hotmail.com>
 
 	* ChangeLog:

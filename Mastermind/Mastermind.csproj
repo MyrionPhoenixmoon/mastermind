@@ -40,6 +40,8 @@
     <Compile Include="Game\Guess.cs" />
     <Compile Include="AI\ComputerPlayer.cs" />
     <Compile Include="Game\Player.cs" />
+    <Compile Include="Game\Response.cs" />
+    <Compile Include="Game\HumanPlayer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Game\" />
@@ -47,5 +49,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="ChangeLog" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Core" />
   </ItemGroup>
 </Project>
